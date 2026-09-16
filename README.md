@@ -1,61 +1,66 @@
 <div align="center">
 
-# Yggorek
+# YGGOREK
 
-### C# / .NET Developer
+### C# / .NET DEVELOPER
 
-Building backend systems, fullstack applications and experimenting with new technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Yggorek)
+`BUILD` · `LEARN` · `IMPROVE` · `REPEAT`
 
 </div>
 
 ---
 
-## About
+## ABOUT
 
-I'm a developer focused on **C# and .NET**, with an interest in backend engineering, software architecture and fullstack development.
+I'm a developer focused on **C# and .NET**, with an interest in backend engineering, fullstack development and software architecture.
 
-I like building things from scratch — from database design and REST APIs to authentication, external API integrations and application architecture.
+I enjoy building applications from the ground up — designing databases, developing APIs, integrating external services and turning ideas into working software.
 
-Currently working on several personal projects while expanding my stack and learning production-oriented development.
+Currently working on personal projects while expanding my skills and exploring new technologies.
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 ### Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=sqlite\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### Tools & Infrastructure
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square\&logo=rider\&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=flat-square\&logo=rider\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
 ---
 
-## Projects
+## PROJECTS
 
 ### 🎵 MusicPlayer
 
-A fullstack music application built around a .NET backend.
+A fullstack music application built with **C# / .NET**.
 
-The project focuses on building a complete application rather than a simple API demo.
+The project focuses on building a complete application with a real backend, database and external API integrations.
 
 **Stack**
 
-`C#` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `Deezer API`
+`C#` `ASP.NET Core` `EF Core` `PostgreSQL` `Deezer API`
 
 **Features**
 
@@ -67,7 +72,7 @@ The project focuses on building a complete application rather than a simple API 
 * Music recommendations
 * External API integration
 
-🔒 Repository currently private
+> 🔒 Repository is currently private.
 
 ---
 
@@ -75,7 +80,7 @@ The project focuses on building a complete application rather than a simple API 
 
 An AI-powered application for analysing legal documents.
 
-The system is designed around uploading documents, extracting structured information, analysing clauses and identifying potentially important risks.
+The project is focused on processing documents, extracting structured information and using AI to analyse clauses and identify potentially important risks.
 
 **Planned stack**
 
@@ -84,35 +89,30 @@ The system is designed around uploading documents, extracting structured informa
 **Focus**
 
 * Document processing
+* Structured information extraction
 * AI-powered analysis
-* Structured data extraction
 * Semantic search
-* RAG pipelines
+* RAG
 * Risk analysis
 
-🚧 In development
+> 🚧 Currently in development.
 
 ---
 
-## Currently Exploring
+## CURRENTLY LEARNING
 
 ```text
-Software Architecture
-        ↓
 Production ASP.NET Core
-        ↓
 Docker & Infrastructure
-        ↓
+Automated Testing
 Frontend Development
-        ↓
-AI Integration & RAG
-        ↓
 System Design
+AI Integration & RAG
 ```
 
 ---
 
-## Philosophy
+## PHILOSOPHY
 
 > Build it. Break it. Understand why. Build it better.
 
@@ -122,7 +122,6 @@ I prefer learning technologies by actually using them in projects rather than st
 
 <div align="center">
 
-### Keep building.
+### BUILD · LEARN · IMPROVE · REPEAT
 
 </div>
-
