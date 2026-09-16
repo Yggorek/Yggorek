@@ -39,7 +39,12 @@ Currently working on personal projects while expanding my skills and exploring n
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=flat-square\&logo=rider\&logoColor=white)
+
+### IDEs
+
+![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000?style=flat-square\&logo=rider\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
+
 
 ### Frontend
 
