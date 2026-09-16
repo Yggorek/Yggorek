@@ -22,18 +22,20 @@ Currently working on personal projects while expanding my skills and exploring n
 
 ## TECH STACK
 
-### Main Stack
+### Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+
+### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
@@ -49,78 +51,94 @@ Currently working on personal projects while expanding my skills and exploring n
 ![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000?style=flat-square\&logo=rider\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
 
-### Currently Exploring
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-
-* Frontend development
-* Software architecture
-* Automated testing
-* Docker & deployment
-* AI integration
-* RAG
-
+---
 
 ## PROJECTS
 
 ### 🎵 MusicPlayer
 
-A fullstack music application built with **C# / .NET**.
+**Fullstack music application**
 
-The project focuses on building a complete application with a real backend, database and external API integrations.
+A personal music platform built with C# and .NET, focused on creating a complete application with its own backend, database and external API integrations.
 
-**Stack**
+**Tech**
 
 `C#` `ASP.NET Core` `EF Core` `PostgreSQL` `Deezer API`
 
 **Features**
 
-* User authentication
-* Music search
-* Artists and albums
-* Playlists
-* Listening history
-* Music recommendations
-* External API integration
+* 🔐 Authentication
+* 🎵 Track search and playback
+* 👤 Artists and albums
+* 📂 Playlists
+* 📊 Listening history
+* 🧠 Music recommendations
+* 🔌 External API integration
 
-> 🔒 Repository is currently private.
+**Status**
+
+`🚧 In Development`
+
+> Repository is currently private.
 
 ---
 
 ### ⚖️ Legal AI
 
-An AI-powered application for analysing legal documents.
+**AI-powered legal document analysis**
 
-The project is focused on processing documents, extracting structured information and using AI to analyse clauses and identify potentially important risks.
+A project focused on analysing legal documents with the help of AI.
 
-**Planned stack**
+The application will process uploaded documents, extract structured information and analyse their contents to help identify important clauses and potential risks.
+
+**Planned Stack**
 
 `C#` `ASP.NET Core` `PostgreSQL` `AI APIs` `RAG`
 
-**Focus**
+**Planned Features**
 
-* Document processing
-* Structured information extraction
-* AI-powered analysis
-* Semantic search
-* RAG
-* Risk analysis
+* 📄 Document upload and processing
+* 🔎 Structured information extraction
+* 🤖 AI-powered document analysis
+* 🧩 Semantic search
+* 🧠 RAG pipeline
+* ⚠️ Risk and clause analysis
+* 📑 Generated analysis reports
 
-> 🚧 Currently in development.
+**Status**
+
+`📋 Planning / Early Development`
 
 ---
 
 ## CURRENTLY LEARNING
 
 ```text
-Production ASP.NET Core
-Docker & Infrastructure
-Automated Testing
-Frontend Development
-System Design
-AI Integration & RAG
+NOW
+ │
+ ├── C# / .NET
+ ├── ASP.NET Core
+ ├── Entity Framework Core
+ └── PostgreSQL
+ │
+ ▼
+NEXT
+ │
+ ├── React
+ ├── TypeScript
+ ├── Automated Testing
+ └── Docker & Deployment
+ │
+ ▼
+EXPLORING
+ │
+ ├── AI Integration
+ ├── RAG
+ ├── System Design
+ └── Software Architecture
 ```
+
+I'm expanding my stack through real projects rather than learning technologies in isolation.
 
 ---
 
@@ -128,7 +146,19 @@ AI Integration & RAG
 
 > Build it. Break it. Understand why. Build it better.
 
-I prefer learning technologies by actually using them in projects rather than studying them in isolation.
+I learn best by turning ideas into working projects, making mistakes along the way, and understanding how things actually work under the hood.
+
+---
+
+## CONTACT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Yggorek)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/sharpforge)
+
+</div>
+
 
 ---
 
