@@ -139,6 +139,7 @@ EXPLORING
 ```
 
 I'm expanding my stack through real projects rather than learning technologies in isolation.
+In this lies both my strength and my weakness
 
 ---
 
