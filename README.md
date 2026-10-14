@@ -45,7 +45,8 @@ Currently working on personal projects while expanding my skills and exploring n
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Scalar](https://img.shields.io/badge/Scalar-5E45D5?style=flat-square&logo=scalar&logoColor=white)
+
 
 ### IDEs
 
