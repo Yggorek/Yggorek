@@ -84,6 +84,34 @@ A personal music platform built with C# and .NET, focused on creating a complete
 > Repository is currently private.
 
 ---
+### 📋 ClipVault
+
+**Clipboard history manager for Windows**
+
+A desktop application built with Python for storing and managing clipboard history.
+
+ClipVault allows users to automatically save copied text, quickly find previously used snippets, and reuse them without having to search for the original source.
+
+**Planned Stack**
+
+`Python` `PySide6` `Qt` `SQLite` `pytest`
+
+**Planned Features**
+
+- 📋 Automatic clipboard history tracking
+- 🔎 Fast search through saved snippets
+- ⭐ Favorites for frequently used text
+- ⌨️ Global hotkeys for quick access
+- 🖥️ System tray integration
+- 🗑️ History management and configurable retention
+- 🔒 Local data storage and privacy controls
+- 📦 Standalone Windows executable
+
+**Status**
+
+`📋 Planning / Early Development`
+
+---
 
 ### ⚖️ Legal AI
 
