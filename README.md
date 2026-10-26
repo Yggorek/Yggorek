@@ -32,13 +32,14 @@ Currently working on personal projects while expanding my skills and exploring n
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### Tools
 
