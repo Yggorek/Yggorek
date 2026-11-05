@@ -85,34 +85,41 @@ A personal music platform built with C# and .NET, focused on creating a complete
 > Repository is currently private.
 
 ---
-### 📋 ClipVault
 
-**Clipboard history manager for Windows**
+⚙️ DevEnv
 
-A desktop application built with Python for storing and managing clipboard history.
+Local development environment manager CLI
 
-ClipVault allows users to automatically save copied text, quickly find previously used snippets, and reuse them without having to search for the original source.
+A cross-platform CLI tool built with C# and .NET for automating the setup and management of local development environments.
 
-**Planned Stack**
+DevEnv allows developers to define, configure, launch, monitor, and manage project environments using a single command. It automates infrastructure setup, Docker containers, environment configuration, and local application processes.
 
-`Python` `PySide6` `Qt` `SQLite` `pytest`
+Planned Stack
 
-**Planned Features**
+"C#" ".NET 10" "System.CommandLine" "Docker Compose" "YAML" "YamlDotNet" "Serilog" "xUnit"
 
-- 📋 Automatic clipboard history tracking
-- 🔎 Fast search through saved snippets
-- ⭐ Favorites for frequently used text
-- ⌨️ Global hotkeys for quick access
-- 🖥️ System tray integration
-- 🗑️ History management and configurable retention
-- 🔒 Local data storage and privacy controls
-- 📦 Standalone Windows executable
+Planned Features
 
-**Status**
+- 🚀 One-command environment setup and startup
+- 🐳 Docker Compose integration for infrastructure management
+- 🗄️ Database and service management (PostgreSQL, Redis, etc.)
+- ⚙️ YAML-based environment configuration
+- 🔐 Automatic ".env" and configuration file generation
+- 🖥️ Local application process management
+- 🔄 Managed and External application execution modes
+- ❤️ Service availability checks and health monitoring
+- 📊 Environment status and diagnostics
+- 🛑 Environment shutdown and restart
+- 🌐 Cross-platform support (Windows and Linux)
+- 📦 Standalone CLI distribution
 
-`📋 Planning / Early Development`
+Status
+
+"⚙️ Planning / Foundation"
 
 ---
+
+
 
 ### ⚖️ Legal AI
 
