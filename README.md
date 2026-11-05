@@ -80,7 +80,7 @@ A personal music platform built with C# and .NET, focused on creating a complete
 
 **Status**
 
-`🚧 In Development`
+`❄️Frozen`
 
 > Repository is currently private.
 
@@ -114,7 +114,7 @@ Planned Features
 
 Status
 
-`⚙️ Planning / Foundation`
+`🚧 In Development`
 
 ---
 
