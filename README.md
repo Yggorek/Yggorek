@@ -95,8 +95,7 @@ A cross-platform CLI tool built with C# and .NET for automating the setup and ma
 DevEnv allows developers to define, configure, launch, monitor, and manage project environments using a single command. It automates infrastructure setup, Docker containers, environment configuration, and local application processes.
 
 Planned Stack
-
-"C#" ".NET 10" "System.CommandLine" "Docker Compose" "YAML" "YamlDotNet" "Serilog" "xUnit"
+`C#` `.NET 10` `System.CommandLine` `Docker Compose` `YAML` `YamlDotNet` `Serilog` `xUnit`
 
 Planned Features
 
@@ -115,7 +114,7 @@ Planned Features
 
 Status
 
-"⚙️ Planning / Foundation"
+`⚙️ Planning / Foundation`
 
 ---
 
